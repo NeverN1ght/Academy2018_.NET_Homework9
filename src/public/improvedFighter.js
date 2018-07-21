@@ -1,6 +1,6 @@
-import { Fighter } from "./fighter";
+import Fighter from "./fighter";
 
-export class ImprovedFighter extends Fighter {
+export default class ImprovedFighter extends Fighter {
     doubleHit(enemy, point) {
         super.hit(enemy, point * 2);
     }

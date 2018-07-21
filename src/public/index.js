@@ -1,6 +1,6 @@
-import { Fighter } from "./fighter";
-import { ImprovedFighter } from "./improvedFighter";
-import { fight } from "./fight";
+import Fighter from "./fighter";
+import ImprovedFighter from "./improvedFighter";
+import fight from "./fight";
 
 var firstFighter = new Fighter('Vladimir', 5, 300);
 var secondFighter = new ImprovedFighter('Mike', 7, 120);

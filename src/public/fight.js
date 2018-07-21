@@ -1,5 +1,5 @@
 
-export async function fight(fighter, improvedFighter, ...points) {
+export default async function fight(fighter, improvedFighter, ...points) {
     console.log(`Ladies and gentlemen! Today we will watch a fight between two professional fighters. ` 
     + `In the right corner is ${fighter.name} and on the opposite side is his opponent ${improvedFighter.name}. ` 
     + `Are you ready? Fight!`);
