@@ -1,9 +1,6 @@
 # Academy2018_.NET_Homework9
 ## ES6 (.NET)
 
-# js-es
-JS project
-
 # Instalation
 install npm<br />
 
