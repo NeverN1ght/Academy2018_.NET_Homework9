@@ -1,5 +1,5 @@
-# js-es
-JS project
+# Academy2018_.NET_Homework9
+## ES6 (.NET)
 
 # Instalation
 install npm<br />
@@ -10,3 +10,5 @@ webpack<br />
 npm run start<br />
 <br />
 localhost:4040
+![Binary Studio Academy](https://s.dou.ua/img/announces/2_1_6Y7TRbx_02W4dCl.png)
+
